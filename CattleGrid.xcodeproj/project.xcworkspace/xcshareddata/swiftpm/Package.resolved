@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "amiitool",
+        "repositoryURL": "https://gitlab.com/AussieAppz/amiitool.git",
+        "state": {
+          "branch": "master",
+          "revision": "7bd470ead2df778530342c742691cdc3f69b18fa",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
